@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anand/Desktop/MLFlow_Test/mlruns/0/fbd0799cf5a7487789156e7a7b5dc815/artifacts
+end_time: 1754471257519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd0799cf5a7487789156e7a7b5dc815
+run_name: likeable-goat-297
+run_uuid: fbd0799cf5a7487789156e7a7b5dc815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754471257398
+status: 4
+tags: []
+user_id: anand

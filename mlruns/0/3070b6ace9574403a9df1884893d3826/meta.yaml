@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anand/Desktop/MLFlow_Test/mlruns/0/3070b6ace9574403a9df1884893d3826/artifacts
+end_time: 1754471378895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3070b6ace9574403a9df1884893d3826
+run_name: orderly-bird-708
+run_uuid: 3070b6ace9574403a9df1884893d3826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754471378799
+status: 4
+tags: []
+user_id: anand

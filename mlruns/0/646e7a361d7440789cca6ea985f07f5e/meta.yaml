@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anand/Desktop/MLFlow_Test/mlruns/0/646e7a361d7440789cca6ea985f07f5e/artifacts
+end_time: 1754471545182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646e7a361d7440789cca6ea985f07f5e
+run_name: rare-bat-415
+run_uuid: 646e7a361d7440789cca6ea985f07f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754471545107
+status: 4
+tags: []
+user_id: anand
